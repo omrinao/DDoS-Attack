@@ -1,0 +1,13 @@
+c:\users\kalinhof\documents\visual studio 2013\Projects\HackatonVictim\HackatonVictim\bin\Debug\HackatonVictim.exe.config
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonVictim\HackatonVictim\bin\Debug\HackatonVictim.exe
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonVictim\HackatonVictim\bin\Debug\HackatonVictim.pdb
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonVictim\HackatonVictim\obj\Debug\HackatonVictim.exe
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonVictim\HackatonVictim\obj\Debug\HackatonVictim.pdb
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonVictim\HackatonVictim\obj\Debug\HackatonVictim.csprojResolveAssemblyReference.cache
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonVictim\HackatonVictim\bin\Debug\HackatonVictim.exe.config
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonVictim\HackatonVictim\bin\Debug\HackatonVictim.exe
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonVictim\HackatonVictim\bin\Debug\HackatonVictim.pdb
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonVictim\HackatonVictim\obj\Debug\HackatonVictim.csprojResolveAssemblyReference.cache
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonVictim\HackatonVictim\obj\Debug\HackatonVictim.csproj.CoreCompileInputs.cache
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonVictim\HackatonVictim\obj\Debug\HackatonVictim.exe
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonVictim\HackatonVictim\obj\Debug\HackatonVictim.pdb

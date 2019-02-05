@@ -1,0 +1,13 @@
+c:\users\kalinhof\documents\visual studio 2013\Projects\HackatonBot\HackatonBot\bin\Debug\HackatonBot.exe.config
+c:\users\kalinhof\documents\visual studio 2013\Projects\HackatonBot\HackatonBot\bin\Debug\HackatonBot.exe
+c:\users\kalinhof\documents\visual studio 2013\Projects\HackatonBot\HackatonBot\bin\Debug\HackatonBot.pdb
+c:\users\kalinhof\documents\visual studio 2013\Projects\HackatonBot\HackatonBot\obj\Debug\HackatonBot.csprojResolveAssemblyReference.cache
+c:\users\kalinhof\documents\visual studio 2013\Projects\HackatonBot\HackatonBot\obj\Debug\HackatonBot.exe
+c:\users\kalinhof\documents\visual studio 2013\Projects\HackatonBot\HackatonBot\obj\Debug\HackatonBot.pdb
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonBot\HackatonBot\bin\Debug\HackatonBot.exe.config
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonBot\HackatonBot\bin\Debug\HackatonBot.exe
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonBot\HackatonBot\bin\Debug\HackatonBot.pdb
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonBot\HackatonBot\obj\Debug\HackatonBot.csprojResolveAssemblyReference.cache
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonBot\HackatonBot\obj\Debug\HackatonBot.csproj.CoreCompileInputs.cache
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonBot\HackatonBot\obj\Debug\HackatonBot.exe
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonBot\HackatonBot\obj\Debug\HackatonBot.pdb

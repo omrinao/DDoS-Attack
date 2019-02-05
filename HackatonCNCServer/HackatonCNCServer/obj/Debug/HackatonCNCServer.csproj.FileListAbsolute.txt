@@ -1,0 +1,13 @@
+c:\users\kalinhof\documents\visual studio 2013\Projects\HackatonCNCServer\HackatonCNCServer\bin\Debug\HackatonCNCServer.exe.config
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonCNCServer\HackatonCNCServer\bin\Debug\HackatonCNCServer.exe
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonCNCServer\HackatonCNCServer\bin\Debug\HackatonCNCServer.pdb
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonCNCServer\HackatonCNCServer\obj\Debug\HackatonCNCServer.exe
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonCNCServer\HackatonCNCServer\obj\Debug\HackatonCNCServer.pdb
+C:\Users\kalinhof\Documents\Visual Studio 2013\Projects\HackatonCNCServer\HackatonCNCServer\obj\Debug\HackatonCNCServer.csprojResolveAssemblyReference.cache
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonCNCServer\HackatonCNCServer\bin\Debug\HackatonCNCServer.exe.config
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonCNCServer\HackatonCNCServer\bin\Debug\HackatonCNCServer.exe
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonCNCServer\HackatonCNCServer\bin\Debug\HackatonCNCServer.pdb
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonCNCServer\HackatonCNCServer\obj\Debug\HackatonCNCServer.csprojResolveAssemblyReference.cache
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonCNCServer\HackatonCNCServer\obj\Debug\HackatonCNCServer.csproj.CoreCompileInputs.cache
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonCNCServer\HackatonCNCServer\obj\Debug\HackatonCNCServer.exe
+C:\Users\חגי קלינהוף\Desktop\שנה ג'\סמסטר ה'\תקשורת נתונים\עבודות\האקטון\HackatonCNCServer\HackatonCNCServer\obj\Debug\HackatonCNCServer.pdb
